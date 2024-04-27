@@ -1,6 +1,6 @@
 Easily Check Cookies 100s in minutes
 
-Demo: [https://dailynetflixcookies.in/netflix-cookies-checker-check-unlimited-cookies/](url)
+Demo: https://dailynetflixcookies.in/netflix-cookies-checker-check-unlimited-cookies/
 
  Supported site cookies are: 
 🧪 Netflix
